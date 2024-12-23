@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: DESKTOP-UR9ASUC
+    runs-on: self-hosted
 
     strategy:
       matrix:
